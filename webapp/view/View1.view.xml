@@ -4,7 +4,6 @@
     <Page id="page" title="{i18n>title}">
         <content>
             <Button id="idButton" text="Hello World Hello Worldgit" press="onPress"></Button>
-
         </content>
     </Page>
 </mvc:View>
